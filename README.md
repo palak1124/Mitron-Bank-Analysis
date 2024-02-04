@@ -59,27 +59,33 @@ customers(16%).
 to match spending patterns. Offer increased cashback or 
 rewards for categories like bills, electronics, and 
 groceries, aligning with customer preferences.
+
 • **Age-Centric Incentives:** Create age-specific benefits. For 
 the 35-45 age group, emphasize healthcare and bill 
 payment rewards. For the 21-35 group, focus on 
 incentives for apparel and entertainment purchases, 
 aligning with their spending trends.
+
 • **Income Utilization Rewards:** Implement a rewards system 
 that encourages higher income utilization rates. Offer 
 bonuses or tiered rewards based on how much of their 
 income customers are utilizing through the credit card.
+
 •  **Targeted Demographic Offers:** Leverage the higher 
 income utilization rates among salaried IT and other 
 employees. Offer exclusive perks, customized rewards, or 
 higher credit limits tailored to these segments.
+
 **Regional Targeting:** Focus on customers from Mumbai and 
 Chennai by partnering with local businesses or offering 
 region-specific discounts and deals to attract and retain these 
 segments.
+
 • **Payment Method Promotion:** Encourage the use of both 
 credit cards and UPI. Introduce features that integrate both 
 methods or offer added benefits for customers who use 
 both interchangeably.
+
 • **Gender-Specific Strategies:** Cater to the higher income 
 utilization rate among male customers by tailoring benefits or 
 rewards for specific spending categories favored by this 
